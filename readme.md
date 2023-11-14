@@ -3,6 +3,13 @@
 
 Examen Final de Herramientas Computacionales
 
+## Tabla de contenidos
+
+1. [Librerias](#librerias)
+2. [Documentacion Funciones](#documentacion-funciones)
+3. [Ejemplos](#ejemplos)
+4. [Autor](#autor)
+
 ## Librerias
 
 ```c++
@@ -57,6 +64,20 @@ string resultado = getBytes(caracter);
 ![App Screenshot](asdadsd.PNG)
 
 ![App Screenshot](herr.PNG)
+
+## Paso a paso Github
+
+Para este proyecto use los siguientes comandos:
+
+```
+git branch
+git checkout -b
+git add
+git commit -m
+git push -u
+```
+
+Al momento de hacer commit y push a la rama, desde github hago el pull request manualmente para fusionar las ramas
 
 ## Autor
 
